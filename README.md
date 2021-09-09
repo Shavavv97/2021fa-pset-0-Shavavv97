@@ -1,10 +1,10 @@
 # Pset 0
 
-[![Build Status](https://app.travis-ci.com/artexmg/pset-0-artexmg.svg?token=RxNqGgdyUu2z1xcVupib&branch=mainX)](https://app.travis-ci.com/artexmg/pset-0-youruser)
+[![Build Status](https://app.travis-ci.com/Shavavv97/2021fa-pset-0-Shavavv97.svg?token=BpfqDuqzLeqjoC5Nr4Mq&branch=main)](https://app.travis-ci.com/Shavavv97/2021fa-pset-0-Shavavv97)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/90b80724b7b1f43fbd0c/maintainabilityX)](httpsa://codeclimate.com/repos/612f0fa5b23a0801b500ed57/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b085cac59149113c3c2c/maintainability)](https://codeclimate.com/github/euds-de-10/2021fa-pset-0-Shavavv97/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/90b80724b7b1f43fbd0c/test_coverageX)](https://codeclimate.com/repos/612f0fa5b23a0801b500ed57/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b085cac59149113c3c2c/test_coverage)](https://codeclimate.com/github/euds-de-10/2021fa-pset-0-Shavavv97/test_coverage)
 
 # Objectives
 In this problem set you will:
