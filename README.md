@@ -2,9 +2,9 @@
 
 [![Build Status](https://app.travis-ci.com/Shavavv97/2021fa-pset-0-Shavavv97.svg?token=BpfqDuqzLeqjoC5Nr4Mq&branch=main)](https://app.travis-ci.com/Shavavv97/2021fa-pset-0-Shavavv97)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/b085cac59149113c3c2c/maintainability)](https://codeclimate.com/github/euds-de-10/2021fa-pset-0-Shavavv97/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/1e6b7da5329c891ef428/maintainability)](https://codeclimate.com/github/Shavavv97/2021fa-pset-0-Shavavv97/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/b085cac59149113c3c2c/test_coverage)](https://codeclimate.com/github/euds-de-10/2021fa-pset-0-Shavavv97/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/1e6b7da5329c891ef428/test_coverage)](https://codeclimate.com/github/Shavavv97/2021fa-pset-0-Shavavv97/test_coverage)
 
 # Objectives
 In this problem set you will:
