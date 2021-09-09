@@ -3,6 +3,7 @@ import sys
 import math
 import scipy.stats
 import numpy as np
+from sklearn.linear_model import LinearRegression
 
 from git import Repo
 
@@ -71,13 +72,12 @@ def example():
     print(f'f({x})={prediction(BestLine.slope, BestLine.intercept, x)}')
     x = -50
     print(f'f({x})={prediction(BestLine.slope, BestLine.intercept, x)}')
+    return BestLine.slope, BestLine.intercept, BestLine.rvalue
 
 
 def my_regression(X, Y):
-    """
-        code your own linear model, as in the example
-    """
-    pass
+    model = LinearRegression().fit(X, Y)
+    return model.coef_, model.intercept_
 
 
 if __name__ == "__main__":
