@@ -97,7 +97,7 @@ if __name__ == "__main__":
         [-48.2, 53.9, 86.1, 15.1, 68.3, -41.7, 80.8, 2.6, 1.8, 73.0, 53.0, 49.3, 77.7, 27.7, 9.5, -37.5, -30.5, -37.1,
          -28.8, 67.2])
 
-    my_regression(X, Y)
+    my_regression([X], [Y])
 
     # Add code and print the results to the console
 
